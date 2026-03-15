@@ -13,7 +13,7 @@ Servo myServo;
 
 #define BRIGHTNESS      200 // Min: 0, Max: 255
 #define SATURATION      150 // Min: 0, Max: 255
-#define MIN_VAL          1 // Min: 0, Max: 75
+#define MIN_VAL          10 // Min: 0, Max: 75
 #define MAX_VAL         300 // Min: 75, Max: 750
 #define TURQUOISE_HUE        230
 
