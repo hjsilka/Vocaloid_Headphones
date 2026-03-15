@@ -26,16 +26,6 @@ Servo myServo;
 #define HUE_CHANGE        2 // < 255
 
 
-
-
-/*============= SELECT STYLE =============*/
-/*                                        */                                      
-/* */          int STYLE = 0;          /* */
-/*                                        */
-/*========================================*/
-
-
-
 CRGB leds[NUM_LEDS];
 byte dynamicHue = HUE_INIT;
 int analogVal = 0;
